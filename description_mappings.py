@@ -11,10 +11,11 @@ mappings = {
     'POSSESSION':'POSS',
     'POS ':'POSS',
     'POSESS:':'POSS ',
-    'POSESS ':'POSSESSION ',    
+    'POSESS ':'POSS ',    
     'REGISTRATION':'REG',
     'PRO. ':'PROFESSIONAL ',
     'PO ': 'POLICE OFFICER ',
+    'P.O.':'POLICE OFFICER',
     'RITUAL': 'RIT',
     'MUTILATION':'MUT',
     'INSTRUMENT':'INSTR'
