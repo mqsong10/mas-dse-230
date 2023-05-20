@@ -1,0 +1,21 @@
+mappings = {
+    ',':' ',
+    ':':' ',
+    '/':' ',
+    '-':' ',
+    '  ':' ',
+    '   ':' ',
+    'AGGRAVATED':'AGG',
+    'ATTEMPT':'ATT',
+    'CRIMINAL':'CRIM',
+    'POSSESSION':'POSS',
+    'POS ':'POSS',
+    'POSESS:':'POSS ',
+    'POSESS ':'POSSESSION ',    
+    'REGISTRATION':'REG',
+    'PRO. ':'PROFESSIONAL ',
+    'PO ': 'POLICE OFFICER ',
+    'RITUAL': 'RIT',
+    'MUTILATION':'MUT',
+    'INSTRUMENT':'INSTR'
+}
