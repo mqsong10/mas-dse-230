@@ -9,6 +9,8 @@ mappings = {
     'ATTEMPT':'ATT',
     'CRIMINAL':'CRIM',
     'POSSESSION':'POSS',
+    'POS:':'POSS',
+    'POSS:':'POSS',    
     'POS ':'POSS',
     'POSESS:':'POSS ',
     'POSESS ':'POSS ',    
@@ -18,5 +20,7 @@ mappings = {
     'P.O.':'POLICE OFFICER',
     'RITUAL': 'RIT',
     'MUTILATION':'MUT',
-    'INSTRUMENT':'INSTR'
+    'INSTRUMENT':'INSTR',
+    'MANU/DEL:':'MANUFACTURE / DELIVER - ',
+    'MANU/DELIVER:':'MANUFACTURE / DELIVER - ',
 }
